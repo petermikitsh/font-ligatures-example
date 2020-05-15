@@ -1,0 +1,23 @@
+{
+  "name": "font-ligatures-example",
+  "version": "0.0.0",
+  "description": "Generate a string array of ligatures from a font file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petermikitsh/font-ligatures-example.git"
+  },
+  "author": "Peter Mikitsh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/petermikitsh/font-ligatures-example/issues"
+  },
+  "homepage": "https://github.com/petermikitsh/font-ligatures-example#readme",
+  "dependencies": {
+    "fontkit": "^1.8.1",
+    "opentype.js": "^1.3.3"
+  }
+}
